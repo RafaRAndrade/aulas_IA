@@ -1,0 +1,1002 @@
+[
+  {
+    "frase": "quero saber o limite do meu cartão",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "qual é o meu limite disponível",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "posso aumentar meu limite de crédito",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "como faço para pedir mais limite",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "meu limite diminuiu o que aconteceu",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "onde vejo o limite do cartão de crédito",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "qual o limite da minha conta corrente",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "gostaria de ajustar meu limite diário de pix",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "como alterar o limite de transferência",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "qual é o limite máximo de saque por dia",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "preciso de um aumento de limite emergencial",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "por que meu pedido de limite foi negado",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "qual o limite para pagamento de boletos",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "como consultar o limite pré-aprovado",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "quero diminuir o limite do meu cartão",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "qual é o meu limite de cheque especial",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "como funciona o limite flexível",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "posso transferir limite de um cartão para outro",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "onde altero o limite do cartão adicional",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "meu limite de compras online é diferente",
+    "categoria": "limite",
+    "resposta": "Poderá consultar ou solicitar a alteração do limite do seu cartão/conta diretamente na secção 'Limites' da aplicação ou do Home Banking."
+  },
+  {
+    "frase": "como faço para ver minha fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "onde baixo o boleto da fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "minha fatura já fechou",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "qual o valor da fatura deste mês",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "quando vence a minha fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "quero pagar o valor parcial da fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "como parcelar o pagamento da fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "não recebi minha fatura por e-mail",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "como cadastrar a fatura em débito automático",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "posso antecipar o pagamento da fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "apareceu uma cobrança indevida na fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "qual o código de barras da minha fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "como consultar faturas anteriores",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "minha fatura veio com valor errado",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "já paguei a fatura mas continua constando em aberto",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "onde vejo o detalhamento de compras da fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "como alterar a data de vencimento da fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "posso pagar a fatura com pontos do cartão",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "como solicitar a segunda via da fatura",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "qual é o saldo devedor da fatura atual",
+    "categoria": "fatura",
+    "resposta": "Poderá aceder à sua fatura, consultar o detalhe do valor e efetuar o pagamento ou parcelamento através do menu 'Faturas' na aplicação."
+  },
+  {
+    "frase": "como fazer um pix",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como cadastrar uma nova chave pix",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "meu pix não entrou o que fazer",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como cancelar uma transferência pix",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "onde encontro o comprovante do pix",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "qual o limite do pix noturno",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "posso fazer pix com cartão de crédito",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como excluir uma chave pix cadastrada",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "qual é a minha chave pix principal",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "o pix está fora do ar hoje",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como funciona o pix copia e cola",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "recebi um pix por engano o que fazer",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como agendar um pix para amanhã",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "onde vejo as chaves pix cadastradas",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como contestar uma transação via pix",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "o valor do pix foi debitado mas não chegou ao destino",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como portar minha chave pix de outro banco",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "como criar um qrcode para receber pix",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "qual é a taxa para fazer pix na conta jurídica",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "posso fazer pix para o exterior",
+    "categoria": "pix",
+    "resposta": "Para realizar, agendar ou gerir as suas chaves Pix, aceda à área 'Pix' no menu principal do seu aplicativo."
+  },
+  {
+    "frase": "qual é o meu saldo atual",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "quero ver o saldo da minha conta",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "quanto tenho na minha conta agora",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "como consultar o saldo do extrato",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "meu saldo está negativo o que aconteceu",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "onde vejo o saldo do cheque especial",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "qual o saldo disponível para saque",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "o saldo atualiza em tempo real",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "por que meu saldo sumiu",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "como ver o saldo de poupança",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "quanto sobrou do meu salário este mês",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "onde fica a opção de ocultar saldo no app",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "meu saldo está bloqueado por quê",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "como ver o saldo consolidado de todas as contas",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "qual o saldo da minha conta investimento",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "posso ouvir meu saldo por ligação",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "quero receber meu saldo diário por sms",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "como consultar o saldo do benefício",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "meu saldo não bate com minhas contas",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "onde fica o saldo disponível no aplicativo",
+    "categoria": "saldo",
+    "resposta": "O seu saldo disponível e atualizado pode ser consultado no topo do ecrã inicial do aplicativo ou na opção 'Saldo'."
+  },
+  {
+    "frase": "quero tirar um extrato dos últimos 30 dias",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como baixar o extrato em PDF",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "onde vejo as movimentações da minha conta",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como exportar o extrato para OFX",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "posso ver o extrato de meses anteriores",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como consultar o histórico de pagamentos",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "não estou entendendo um lançamento no meu extrato",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como emitir um extrato para imposto de renda",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "onde vejo as entradas e saídas da conta",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como filtrar o extrato por tipo de transação",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "posso imprimir meu extrato bancário",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como solicitar o extrato consolidado anual",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "onde vejo o comprovante de uma transação no extrato",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como tirar extrato da conta poupança",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "o extrato do app mostra compras parceladas",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como ver o extrato de rendimentos da conta",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "por que tem um débito desconhecido no extrato",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como solicitar extrato por e-mail",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "posso ver o extrato do cartão de débito separado",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como ver o extrato de tarifas cobradas",
+    "categoria": "extrato",
+    "resposta": "O extrato das suas movimentações e a opção para exportar em PDF/OFX estão disponíveis na secção 'Extrato'."
+  },
+  {
+    "frase": "como solicitar um empréstimo pessoal",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "tenho empréstimo pré-aprovado",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "quais são as taxas de juros do empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "como antecipar parcelas do meu empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "onde vejo o saldo devedor do meu empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "posso simular um empréstimo consignado",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "como quitar meu empréstimo antecipadamente",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "quando cai o dinheiro do empréstimo na conta",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "posso renegociar o valor da parcela do empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "como funciona o empréstimo com garantia de imóvel",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "qual o número de parcelas disponíveis para empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "como solicitar antecipação do FGTS",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "preciso de um empréstimo para empresa",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "por que meu empréstimo não foi aprovado",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "onde pego o contrato do meu empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "como pagar a parcela do empréstimo em atraso",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "qual a diferença entre empréstimo pessoal e consignado",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "posso cancelar a contratação de um empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "como simular financiamento de veículo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "qual o valor da taxa CET do empréstimo",
+    "categoria": "emprestimo",
+    "resposta": "Para simular, contratar ou consultar o saldo devedor do seu empréstimo, aceda à área de 'Empréstimos e Financiamentos'."
+  },
+  {
+    "frase": "meu cartão de crédito não chegou",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como desbloquear meu novo cartão",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "perdi meu cartão e preciso bloquear",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como pedir a segunda via do cartão",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "meu cartão foi roubado o que fazer",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como criar um cartão virtual para compras online",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "meu cartão físico não está passando por aproximação",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como cadastrar o cartão na carteira digital",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "qual a diferença entre cartão de débito e crédito",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como rastrear o envio do meu cartão",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "posso pedir um cartão adicional para dependente",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como alterar a senha do cartão de crédito",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "meu cartão está vencido como renovar",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como ativar a função crédito no meu cartão",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "por que minha compra no cartão foi recusada",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como habilitar o cartão para uso no exterior",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "onde vejo a numeração do meu cartão virtual",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como cancelar o meu cartão de crédito",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "qual o custo da anuidade do cartão",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como solicitar a isenção da anuidade do cartão",
+    "categoria": "cartao",
+    "resposta": "Para gerir o seu cartão, efetuar bloqueio, solicitar 2.ª via ou visualizar o cartão virtual, aceda à secção 'Cartões'."
+  },
+  {
+    "frase": "como começar a investir pelo aplicativo",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "quais as melhores opções de investimento hoje",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como investir em Tesouro Direto",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "qual é o rendimento do CDB neste banco",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como resgatar meu dinheiro investido",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "qual é o meu perfil de investidor",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como refazer o questionário de perfil de investidor",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "qual a diferença entre CDB e Poupança",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como comprar ações pelo home broker",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "onde vejo a rentabilidade da minha carteira",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como investir em fundos imobiliários",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "qual o valor mínimo para começar a investir",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "onde baixo o informe de rendimentos para imposto de renda",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como funciona a liquidez diária",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "meu investimento tem garantia do FGC",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como aplicar na poupança",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "quais os custos e taxas para investir",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como agendar uma aplicação mensal automática",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "onde vejo os dividendos que recebi",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "como transferir investimentos de outra corretora",
+    "categoria": "investimentos",
+    "resposta": "Consulte o rendimento da sua carteira, o seu perfil de investidor e aplique em produtos financeiros na aba 'Investimentos'."
+  },
+  {
+    "frase": "olá",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "oi tudo bem",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "bom dia",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "boa tarde",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "boa noite",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "olá como vai",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "oi gostaria de tirar uma dúvida",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "bom dia tudo bem com você",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "boa tarde preciso de ajuda",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "boa noite tem alguém aí",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "olá assistente bancário",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "oi robô",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "opa tudo certo",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "e aí beleza",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "olá preciso de atendimento",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "oi bom dia",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "oi boa tarde",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "oi boa noite",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "olá bom dia gostaria de suporte",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "oie tudo bem",
+    "categoria": "cumprimentos",
+    "resposta": "Olá! Como posso ajudar nas suas operações ou dúvidas bancárias hoje?"
+  },
+  {
+    "frase": "quero falar com um atendente humano",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "preciso de ajuda especializada",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "pode me transferir para uma pessoa",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "não estou conseguindo resolver por aqui me passe para o suporte",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "qual é o telefone da ouvidoria",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "como faço para ir ao chat humano",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "o robô não ajudou quero falar com um funcionário",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "qual é o horário de atendimento da agência",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "onde fica a agência bancária mais próxima",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "qual é o número do SAC para reclamações",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "preciso agendar um horário na agência",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "como fazer uma reclamação no banco",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "o robô entende a minha dúvida ou preciso de atendimento humano",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "quero falar com o gerente da minha conta",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "como me comunicar com o suporte técnico do app",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "me transfira para o setor de cartões por favor",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "qual o canal de atendimento para deficientes auditivos",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "preciso do contato do setor de cobrança",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "como falar com o atendimento pelo whatsapp",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  },
+  {
+    "frase": "encaminhe meu caso para um especialista",
+    "categoria": "atendimento",
+    "resposta": "Para falar com um dos nossos especialistas ou consultar os canais diretos de suporte, por favor aceda ao menu 'Ajuda/Atendimento'."
+  }
+]
