@@ -18,9 +18,9 @@ Siga os passos abaixo para criar e executar o ambiente do seu projeto:
 No arquivo `requirements.txt`, adicione as seguintes bibliotecas:
 
 ```text
-streamlit
-pandas
-scikit-learn
+Streamlit
+Pandas
+Scikit-learn
 ```
 
 ---
